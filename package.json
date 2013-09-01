@@ -1,7 +1,7 @@
 {
   "name": "responsive-section-layout",
-  "version": "0.1.1",
-  "description": "Fixes to various browser quirks (mostly ie). Not meant to be a replacement for a css reset.",
+  "version": "0.1.2",
+  "description": "Responsive styles for lists of posts layouts (ie home/category/tag pages).",
   "author": {
     "name": "Andrew Griffiths",
     "email": "mail@andrewgriffithsonline.com"

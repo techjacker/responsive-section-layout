@@ -1,6 +1,6 @@
 # responsive-section-layout
 
-Fixes to various browser quirks (mostly ie). Not meant to be a replacement for a css reset.
+Responsive styles for lists of posts layouts (ie home/category/tag pages).
 
 ## example HTML markup
 
