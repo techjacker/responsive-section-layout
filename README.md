@@ -2,6 +2,11 @@
 
 Fixes to various browser quirks (mostly ie). Not meant to be a replacement for a css reset.
 
+## example HTML markup
+
+- See example.html for an example of the markup you need to use with the styles.
+- The example's markup is adpated for use with picturefill.js, however, it works without it as well.
+
 
 ### Install
 
