@@ -1,11 +1,11 @@
 {
   "name": "responsive-section-layout",
   "version": "0.1.1",
+  "licenses": [{"type": "MIT"}],
   "description": "Responsive styles for lists of posts layouts (ie home/category/tag pages).",
   "repo": "techjacker/responsive-section-layout",
-  "remotes": [],
-  "dependencies": {},
-  "styles": [
-    "css/styles.css"
-  ]
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:techjacker/responsive-section-layout.git"
+  }
 }

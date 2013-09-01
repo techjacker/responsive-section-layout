@@ -1,6 +1,6 @@
 {
   "name": "responsive-section-layout",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Fixes to various browser quirks (mostly ie). Not meant to be a replacement for a css reset.",
   "author": {
     "name": "Andrew Griffiths",
