@@ -1,0 +1,11 @@
+{
+  "name": "responsive-section-layout",
+  "version": "0.0.8",
+  "description": "Fixes to various browser quirks (mostly ie). Not meant to be a replacement for a css reset.",
+  "repo": "techjacker/responsive-section-layout",
+  "remotes": [],
+  "dependencies": {},
+  "styles": [
+    "css/styles.css"
+  ]
+}
