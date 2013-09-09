@@ -71,3 +71,26 @@ sub module
 		margin-right:0;
 	}
 }
+.lt-ie9 .gallery .imgwrap {
+	width: 100%;
+	float:none;
+}
+
+.lt-ie9 .gallery .imgwrap {
+	display: block;
+	margin-bottom:5px;
+}
+
+.lt-ie9 .gallery-2-cols, .lt-ie9 .gallery-4-cols {
+	width:49%;
+	margin-top:2%;
+	margin-right:2%;
+}
+
+.lt-ie9 .gallery-4-cols {
+	width:23.5%;
+}
+
+.lt-ie9 .gallery-container .mr-0 {
+	margin-right:0;
+}
