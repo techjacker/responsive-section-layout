@@ -1,9 +1,9 @@
 .gallery {
-
 	float: left;
 	zoom:1;
 	display: inline;
 	padding-bottom: 10px;
+	width: 100%;
 }
 /*
 .gallery span.imgwrap {
@@ -69,5 +69,8 @@ sub module
 	}
 	.gallery-container article:nth-of-type(4n+4) .gallery-4-cols {
 		margin-right:0;
+	}
+	.gallery-container article:nth-of-type(5n+5) .gallery-4-cols {
+		clear:left;
 	}
 }
