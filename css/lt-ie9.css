@@ -18,6 +18,10 @@
 	width:23.5%;
 }
 
-.lt-ie9 .gallery-container .mr-0 {
+.lt-ie9 .gallery .mr-0 {
 	margin-right:0;
+}
+
+.lt-ie9 .gallery .cl-lf {
+	clear:left;
 }

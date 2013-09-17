@@ -61,7 +61,7 @@ sub module
 }
 
 
-@media only screen and (min-width: 690px) {
+@media only screen and (min-width: 790px) {
 	.gallery-4-cols, .gallery-container article:nth-of-type(2n+2) .gallery-4-cols {
 		width:23.5%;
 		margin-top:2%;
@@ -94,6 +94,10 @@ sub module
 	width:23.5%;
 }
 
-.lt-ie9 .gallery-container .mr-0 {
+.lt-ie9 .gallery .mr-0 {
 	margin-right:0;
+}
+
+.lt-ie9 .gallery .cl-lf {
+	clear:left;
 }
